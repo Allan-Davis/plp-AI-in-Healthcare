@@ -1,0 +1,29 @@
+# AI in Healthcare: Predicting Diabetes Risk Using Machine Learning
+
+## 📌 Project Description
+This project uses artificial intelligence (AI) to predict diabetes risk based on patient health data. Using the Pima Indians Diabetes dataset, we apply a machine learning model to identify individuals at risk and demonstrate how AI can support early diagnosis in healthcare.
+
+## 🎯 Objectives
+- Build a diabetes prediction model using machine learning.
+- Evaluate model accuracy and performance.
+- Show how AI can assist in early disease detection and improve healthcare outcomes.
+
+## 🛠️ Tools and Libraries Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib & Seaborn
+- Scikit-learn (Random Forest Classifier)
+
+## ▶️ How to Run the Project
+1. Clone or download the repository.
+2. Open `diabetes_prediction.ipynb` in Jupyter Notebook or Google Colab.
+3. Run all cells from top to bottom to train and test the model.
+
+## 💡 Insights and Reflections
+- The Random Forest Classifier achieved strong accuracy in predicting diabetes.
+- Cleaning and preprocessing the data (e.g., replacing zero values) improved model performance.
+- This simple project shows how AI can play a role in preventive healthcare by identifying high-risk patients early.
+
+## 👤 About Me
+I’m passionate about the intersection of AI and healthcare. This project is part of my journey to explore how machine learning can be used to solve real-world health challenges, from disease prediction to treatment optimization. I believe in using technology to make healthcare smarter, more accessible, and more proactive.
